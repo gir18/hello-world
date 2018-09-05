@@ -1,2 +1,3 @@
 # hello-world
 Starting point learning
+I am Giorgio. I am from Italy but I am currently based in Lugano, Switzerland where I worked for different company in different fields. At the same time I was working  I also continued to feed my interest in human computer interaction which rose during my master studies at the university of Lugano where I graduated in 2014. The master gave me the opportunity to growth a passion and a desire to improve my knowledge of how design can affect people’s behavior and also how technology can persuade people to act better and change behavior. I enjoy to sensitize people on sustainability and health issues. This passion brought me to enroll myself to a master in Interaction design at SUPSI in Lugano which is gonna start in Sept 2018.
